@@ -6,6 +6,9 @@
 
 A non-linear least squares solver that is primarily developed by the Numerical Analysis group at STFC Rutherford Appleton Laboratory hsl@stfc.ac.uk.
 
+[AMD](https://www.amd.com) supports and contributes to the RALFit solver as part of its commitment to advancing open-source high-performance computing.
+Through this collaboration it helps ensure the solver benefits from the performance and scalability of [AMD technologies](https://www.amd.com/).
+
 ## Installation
 
 ### Requirements
